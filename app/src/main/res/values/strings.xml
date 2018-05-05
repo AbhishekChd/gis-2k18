@@ -140,5 +140,6 @@
     <string name="title_activity_create_project">CreateProjectActivity</string>
     <string name="title_activity_share_link">ShareLinkActivity</string>
     <string name="default_description">Sample Description</string>
+    <string name="open_in_browser_btn">Open</string>
 
 </resources>
